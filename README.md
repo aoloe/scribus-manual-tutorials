@@ -71,6 +71,9 @@ A list of good tutorials for Scribus.
   - [Rééchantillonnage: manipuler la résolution d'une image](https://www.youtube.com/watch?v=IuKvxI1SJX4)
   - [Dimension de l'image: distinguer la taille, la définition et la résolution](https://www.youtube.com/watch?v=BvQ8TmWTT4M)
   - [Comprendre le vectoriel](https://www.youtube.com/watch?v=1TVG2XozXOs)
+- [Des outils libres pour la création d'un journal](https://pascal-tic.org/blogue/des-outils-libres-pour-la-creation-d%E2%80%99un-journal/)
+  - <https://www.calameo.com/read/0006619940867e7db22e8>
+
 
 ## Hints for tutorial creators
 
