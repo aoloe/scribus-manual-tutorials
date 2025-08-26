@@ -491,6 +491,9 @@ If I have some time, I will go through more of it, but from what I've seen, this
 - [Des outils libres pour la création d'un journal](https://pascal-tic.org/blogue/des-outils-libres-pour-la-creation-d%E2%80%99un-journal/)
   - <https://www.calameo.com/read/0006619940867e7db22e8>
 
+## Scripter
+
+- [Python scripting with Scribus](https://opensource.com/sites/default/files/ebooks/pythonscriptingwithscribus.pdf)
 
 ## Hints for tutorial creators
 
