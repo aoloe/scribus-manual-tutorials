@@ -47,8 +47,8 @@ General comments:
 - 👍 It presents the tutorials series as covering the development version of Scribus, but since it's a few years old, it actually mostly covers the current stable version.
 - 👍 Presents many real world _advanced_ issues and how to solve them with Scribus (sometimes with _hacks_ sometimes with Scribus features).
 - 👍 Very visually pleasant examples, close to what a good graphic designer would create. Most of the time they are also easy to replicate.
-- 👎 If you're looking for a solution for a specific issue, it might be there, but it's not easy to find out where these tutorials covers them (example: creating a typographic correct 1/6 fraction is presented in _Superscript and subscript_).
-- 👎 Presents features (transparencies...) that are often not supporter by print houses: should give a big warning that Scribus does not flatten transparencies and, on the other side, print houses often ask for _modern_ PDF version but explicitely or implicetely require the transparencies to be flattened.
+- 👎 If you're looking for a solution for a specific issue, it might be there, but it's not easy to find out which clip covers them (example: creating a typographic correct 1/6 fraction is presented in _Superscript and subscript_).
+- 👎 Presents features (transparencies...) that are often not supported by print houses: should give a big warning that Scribus does not flatten transparencies and, on the other side, print houses often ask for _modern_ PDF version but explicitly or implicetly require the transparencies to be flattened.
 - 👎 Does not go into typical issues that you can encounter when sending Scribus PDFs to print houses: often they know how to work around Indesign shortcomings, but will just blame Scribus, if their workflow does not conform to the standards they're requiring.
 
 ✎ = edits, corrections, addendums
